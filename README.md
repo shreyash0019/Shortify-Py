@@ -37,7 +37,7 @@ Shortify-Py/
 │── app.py          # Flask backend logic
 │── database.db     # SQLite database (auto-created)
 │── templates/
-│   ├── index.html  # Frontend for URL input   # Basic styling (optional)
+│   ├── index.html  # Frontend for URL input.
 └── README.md       # Project documentation
 ```
 
