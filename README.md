@@ -50,7 +50,7 @@ Shortify-Py/
 Feel free to **fork** this repository and submit pull requests to improve the project!
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the [**MIT License**].
 
 ## 📧 Contact
 For any issues or suggestions, open an issue in the repository or reach out via GitHub. 😊
